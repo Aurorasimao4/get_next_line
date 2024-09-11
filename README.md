@@ -25,3 +25,6 @@ Para compilar o projeto, use o Makefile incluído no repositório. Execute os se
 ```bash
 git clone https://github.com/Aurorasimao4/get_next_line.git
 cd get_next_line
+cc get_next_line.c get_next_line_utils.c
+Bonus
+cc get_next_line_bonus.c get_next_line_utils_bonus.c 
